@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/cormorant_medium</item>
+        <item>@font/droid_sans_mono</item>
+        <item>@font/gilda_display</item>
+        <item>@font/khula</item>
+        <item>@font/rubik_mono_one</item>
+        <item>@font/ubuntu</item>
+    </array>
+</resources>
